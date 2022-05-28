@@ -13,12 +13,12 @@
 
 ## Sobre
 
-Um projeto feito com ReactJS, um clone da Netflix. Utilei vários recursos da lib React, como requisições, states e hooks, além de usar alguns técnicas de CSS para aplicar efeitos e também JavaScript para construir funcionalidades como o slider dos filmes e séries.
+Um projeto feito com ReactJS, um clone da Netflix. Utilei vários recursos da lib React, como requisições, states e hooks, além de usar algumas técnicas de CSS para aplicar efeitos e também JavaScript para construir funcionalidades como o slider dos filmes e séries.
 
 ## Pré-requisitos
 Antes de começar, você precisa ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
-Além disto, é interessante que tenha instalado um editor de código como o [VSCode](https://code.visualstudio.com/).
+Além disso, é interessante que tenha instalado um editor de código como o [VSCode](https://code.visualstudio.com/).
 
 ## Instalação
 
