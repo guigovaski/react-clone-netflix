@@ -3,6 +3,7 @@
 ## Sumário
 
 - **[Sobre](#sobre)**
+- **[Instruções](#instruções)**
 - **[Pré-requisitos](#pré-requisitos)**
 - **[Instalação](#instalação)**
 - **[Tecnologias](#tecnologias)**
@@ -10,6 +11,10 @@
 ## Clone Netflix GIF
 
 ![Clone Netflix](.github/assets/clone-netflix.gif)
+
+## Instruções
+Você precisa renomear a váriavel de ambiente **.env.local** para **.env** apenas e preencher a váriavel **REACT_APP_API_KEY** de acordo com sua chave gerada.  
+Para gerar uma chave você precisa criar uma conta no site em que faremos o uso da API **https://www.themoviedb.org/signup** e após isso você pode seguir a documentação oficial, que é simples e objetiva: **https://developers.themoviedb.org/3/getting-started/introduction**
 
 ## Sobre
 
